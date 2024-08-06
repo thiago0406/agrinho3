@@ -1,0 +1,65 @@
+*{
+
+padding: 0 0;
+margin: 0 0;
+
+
+
+
+}
+
+
+
+
+#cabecalho{
+display: flex;
+justify-content: center;
+height: 50px;
+width: auto;
+background-color: rgb(0, 0, 0);
+border-bottom: 3px solid rgb(0, 251, 255);
+height: 300px;
+
+
+}
+
+#ImgAlign{
+
+
+
+
+
+}
+
+
+
+#logoCabecalho{
+height: 200px; 
+border-radius: 10px;
+
+
+
+}
+
+#logoCabecalho:hover{
+   
+    box-shadow: 0px 0px 100px rgb(0, 251, 255);
+    
+    }
+
+    #navAlign{
+
+
+
+
+    }
+
+    #botonsBox{
+        background-color:aqua;
+        height: 50px;
+        color white;
+        border-bottom: 3px solid aqua;
+
+
+
+    }
